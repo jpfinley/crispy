@@ -3,3 +3,5 @@ h3 { font-family: "Trebuchet MS", sans-serif; }
 
 /* Tests */
 #one button { background-color: #EEEEEE; }
+
+#two button { border: 1px solid #EEEEEE; }
