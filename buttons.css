@@ -5,3 +5,13 @@ h3 { font-family: "Trebuchet MS", sans-serif; }
 #one button { background-color: #EEEEEE; }
 
 #two button { border: 1px solid #EEEEEE; }
+
+#spacebook button {
+  background-color: #3B5998;
+  border-color: #D9DFEA #0E1F5B #0E1F5B #D9DFEA;
+  border-width: 1px;
+  padding: 2px 15px 3px 15px;
+  font-size: 11px;
+  color: #FFFFFF;
+}
+
